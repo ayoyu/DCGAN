@@ -1,0 +1,2 @@
+model_checkpoint_path: "DCGAN_model-5"
+all_model_checkpoint_paths: "DCGAN_model-5"
